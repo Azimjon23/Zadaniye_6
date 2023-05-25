@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.673,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.723,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.720,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.295,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.100,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.318,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.039,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.010,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>2023.05.25 17:44:18.173,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>2023.05.25 17:44:21.034,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>2023.05.25 18:06:13.972,C:\Users\user\Documents\Embarcadero\Studio\Zadan\Unit5.cpp=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>2023.05.25 18:06:13.972,C:\Users\user\Documents\Embarcadero\Studio\Zadan\Unit5.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>2023.05.25 18:06:13.972,C:\Users\user\Documents\Embarcadero\Studio\Zadan\Unit5.h=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit5.h</Transaction>
+    <Transaction>2023.05.25 18:06:18.022,C:\Users\user\Documents\Embarcadero\Studio\Zadan\Project4PCH1.h=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>2023.05.25 18:06:20.302,C:\Users\user\Documents\Embarcadero\Studio\Zadan\Project4.cbproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project4.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
